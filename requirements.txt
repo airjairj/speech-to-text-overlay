@@ -1,0 +1,4 @@
+vosk>=0.3.42
+pyaudio>=0.2.11
+psutil>=5.9.0
+SpeechRecognition>=3.10.0

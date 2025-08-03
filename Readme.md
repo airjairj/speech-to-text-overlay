@@ -122,3 +122,5 @@ This project is licensed under the MIT License.
 ## Contact
 
 For questions or support, open an issue
+
+P.S. This project was made to help hearing impaired people, if you are hearing impaired and have a feature/idea/request, feel free to ask.
